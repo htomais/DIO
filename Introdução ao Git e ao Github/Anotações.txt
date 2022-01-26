@@ -1,1 +1,4 @@
 ## Arquivos de anotações do curso
+
+* Criado usando o vscode
+* Utilizando o git pelo vscode
